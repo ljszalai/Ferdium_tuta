@@ -1,0 +1,9 @@
+{
+  "id": "tuta",
+  "name": "Tuta",
+  "version": "1.0.0",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.tuta.com/mail"
+  }
+}
